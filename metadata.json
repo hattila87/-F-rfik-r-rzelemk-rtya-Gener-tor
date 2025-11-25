@@ -1,0 +1,5 @@
+{
+  "name": "Férfi Érzelemkártya Generátor v3",
+  "description": "Egy alkalmazás, amely a Gemini API segítségével generál nyomtatható érzelemkártyákat férfikörök számára, európai mitológiai témákkal.",
+  "requestFramePermissions": []
+}
